@@ -1,0 +1,4 @@
+com\example\model\Expense.class
+com\example\service\ExpenseService.class
+com\example\controller\ExpenseController.class
+com\example\dao\ExpenseDAO.class
